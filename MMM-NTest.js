@@ -1,6 +1,6 @@
 //helloworld.js:
 
-Module.register("helloworld",{
+Module.register("MMM-NTest",{
 	// Default module config.
 	defaults: {
 		text: "Hello World!"
